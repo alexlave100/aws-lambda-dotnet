@@ -1,6 +1,7 @@
 # AWS Lambda for .NET
 
 Repository for the AWS NuGet packages and Blueprints to support writing AWS Lambda functions using .NET Core.
+
 For a history of releases view the [release change log](CHANGELOG.md)
 
 ## Table of Contents
